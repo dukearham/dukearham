@@ -14,7 +14,7 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 - 🎯 Membuat proyek yang bisa dipakai nyata
 - 📫 Hubungi saya di [dukearham@gmail.com](mailto:dukearham@gmail.com)
 
-## 🔹 Featured Project
+## ⭐ Featured Project
 
 <a href="https://github.com/dukearham/whatsapp-bot-base#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dukearham&repo=whatsapp-bot-base&theme=github_dark_dimmed#gh-dark-mode-only" alt="Readme Card" />
