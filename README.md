@@ -33,9 +33,10 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 ---
 
 ## 📊 GitHub Stats
-![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=radical)
+![Arham's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=transparent&rank_icon=github&locale=ja)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=transparent&locale=ja)
 
 ---
 
