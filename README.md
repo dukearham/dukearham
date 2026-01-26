@@ -23,7 +23,6 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dukearham&repo=whatsapp-bot-base&theme=default#gh-light-mode-only" alt="Readme Card" />
 </a>
 
-
 ## 📊 Stats
 
 ### Github
@@ -35,6 +34,8 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 <a href="https://github.com/dukearham#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=default&rank_icon=github&locale=ja#gh-light-mode-only" alt="Arham's GitHub stats" />
 </a>
+
+---
 
 <a href="https://github.com/dukearham#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=ja#gh-dark-mode-only" alt="Top Languages" />
@@ -51,6 +52,8 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 <a href="https://wakatime.com/@dukearham#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only" alt="Arham's WakaTime stats" />
 </a>
+
+---
 
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
