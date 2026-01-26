@@ -3,8 +3,6 @@
 19 y.o. Full Stack Developer | Node.js & WhatsApp Bot Enthusiast  
 Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 
-<br>
-
 ## 🛠️ Skills & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -13,16 +11,12 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 
-<br>
-
 ## 📚 About Me
 - 💻 Belajar Full Stack Development, fokus di Node.js & bot development  
 - 🌱 Eksperimen dengan API, WhatsApp bot, dan project open-source  
 - 🎯 Membuat proyek yang bisa dipakai nyata  
 - 📫 Hubungi saya di [dukearham@gmail.com](mailto:dukearham@gmail.com)
- 
-<br>
- 
+
 ## 🔹 Featured Project
 
 ### 📱 WhatsApp Bot Base
@@ -30,14 +24,10 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 - Bot WhatsApp dengan command handler dan session management  
 [Repo Link](https://github.com/dukearham/whatsapp-bot-base)
 
-<br>
-
 ## 📊 GitHub Stats
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=github_dark_dimmed&rank_icon=github&locale=ja)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=ja)
-
-<br>
 
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
