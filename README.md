@@ -31,8 +31,7 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 
 ### Wakatime
 
-[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=github_dark_dimmed&layout=compact#gh-dark-mode-only)](https://wakatime.com/@dukearham)
-[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only)](https://wakatime.com/@dukearham)
+[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=github_dark_dimmed&layout=compact#gh-dark-mode-only)](https://wakatime.com/@dukearham)[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only)](https://wakatime.com/@dukearham)
 
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
