@@ -25,13 +25,17 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=github_dark_dimmed&rank_icon=github&locale=ja#gh-dark-mode-only)
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=default&rank_icon=github&locale=ja#gh-light-mode-only)
-
+<a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=ja#gh-dark-mode-only" alt="Top Languages" />
+</a>
+<a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=default&locale=ja#gh-light-mode-only" alt="Top Languages" />
+</a>
 
 ### Wakatime
 
-[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=github_dark_dimmed&layout=compact#gh-dark-mode-only)](https://wakatime.com/@dukearham)[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only)](https://wakatime.com/@dukearham)
+[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=github_dark_dimmed&layout=compact#gh-dark-mode-only)](https://wakatime.com/@dukearham)
+[![Arham's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only)](https://wakatime.com/@dukearham)
 
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
