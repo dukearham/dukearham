@@ -52,5 +52,6 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default&layout=compact#gh-light-mode-only" alt="Arham's WakaTime stats" />
 </a>
 
+
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
