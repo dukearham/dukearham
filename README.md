@@ -4,7 +4,7 @@
 Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 
 ## 🛠️ Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,java,nodejs,linux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,java,nodejs,linux&perline=3)
 
 ## 📚 About Me
 - 💻 Belajar Full Stack Development, fokus di Node.js & bot development  
@@ -19,10 +19,15 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 - Bot WhatsApp dengan command handler dan session management  
 [Repo Link](https://github.com/dukearham/whatsapp-bot-base)
 
-## 📊 GitHub Stats
+## 📊 Stats
+
+### Github
+
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=github_dark_dimmed&rank_icon=github&locale=ja)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=ja)
+
+### Wakatime
 
 > 少しずつ上達し、失敗しても諦めないでください。  
 > "Improve little by little, and don't give up even if you fail."
