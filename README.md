@@ -48,10 +48,10 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 ### Wakatime
 
 <a href="https://wakatime.com/@dukearham#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=github_dark_dimmed#gh-dark-mode-only" alt="Arham's WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&theme=github_dark_dimmed#gh-dark-mode-only" alt="Arham's WakaTime stats" />
 </a>
 <a href="https://wakatime.com/@dukearham#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&custom_title=Arham%2019%20.y.o&theme=default#gh-light-mode-only" alt="Arham's WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dukearham&theme=default#gh-light-mode-only" alt="Arham's WakaTime stats" />
 </a>
 
 ---
