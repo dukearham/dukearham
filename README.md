@@ -5,7 +5,7 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 
 ## 🛠️ Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,nodejs,linux)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,java,nodejs)
 
 ## 📚 About Me
 
