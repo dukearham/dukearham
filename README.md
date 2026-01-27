@@ -28,20 +28,21 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
 ### Github
 
 <a href="https://github.com/dukearham#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=github_dark_dimmed&rank_icon=github&locale=ja#gh-dark-mode-only" alt="Arham's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=github_dark_dimmed&rank_icon=github&locale=en#gh-dark-mode-only" alt="Arham's GitHub stats" />
 </a>
 
 <a href="https://github.com/dukearham#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=default&rank_icon=github&locale=ja#gh-light-mode-only" alt="Arham's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dukearham&show_icons=true&theme=default&rank_icon=github&locale=en#gh-light-mode-only" alt="Arham's GitHub stats" />
 </a>
 
 ---
 
 <a href="https://github.com/dukearham#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=ja#gh-dark-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=github_dark_dimmed&locale=en#gh-dark-mode-only" alt="Top Languages" />
 </a>
+
 <a href="https://github.com/dukearham#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=default&locale=ja#gh-light-mode-only" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dukearham&layout=compact&theme=default&locale=en#gh-light-mode-only" alt="Top Languages" />
 </a>
 
 ### Wakatime
