@@ -23,6 +23,15 @@ Selalu belajar hal baru dan mencoba membuat proyek yang bermanfaat.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dukearham&repo=whatsapp-bot-base&theme=default#gh-light-mode-only" alt="Readme Card" />
 </a>
 
+---
+
+<a href="https://github.com/dukearham/termux-style-four#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dukearham&repo=termux-style-four&theme=github_dark_dimmed#gh-dark-mode-only" alt="Readme Card" />
+</a>
+<a href="https://github.com/dukearham/termux-style-four#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dukearham&repo=termux-style-four&theme=default#gh-light-mode-only" alt="Readme Card" />
+</a>
+
 ## 📊 Stats
 
 ### Github
